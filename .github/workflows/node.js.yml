@@ -4,7 +4,7 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "master", "site_build_git_workflow" ]
   pull_request:
     branches: [ "master" ]
 
