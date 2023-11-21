@@ -61,6 +61,5 @@ export default {
   },
   router: {
     base: isDev ? '/' : '/fv1-programs/',
-  },
-
+  }
 }
